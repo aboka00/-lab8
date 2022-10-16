@@ -22,7 +22,7 @@ const results = {
     lab3: [5, 10, 10, 15], // array of scores for lab3
     lab4_5: [10, 5, 5, 5, 5, 5, 10, 10, 10, 10, 5], // array of scores for lab4 and 5
     lab6: [5, 5, 10, 0, 5, 10], // array of scores for lab6
-    quiz1: 36, // score of quiz1
+    quiz1: quiz1, // score of quiz1
     sums: [sum1, sum2, sum3, sum45, sum6], // array of sums of each lab
     total_score: total_score, // computed total score
     }
